@@ -3,5 +3,5 @@ main = "src/index.js"  # 或者你的 Worker 脚本路径
 compatibility_date = "2025-11-21"
 
 kv_namespaces = [
-  { binding = "BOT_KV", id = "c240ac1baedc42f9b7e3140bd636580b" }
+  { binding = "BOT_KV", id = "0938f9f30a9c43e5a02bbbd0a4e87641" }
 ]
